@@ -1,0 +1,33 @@
+[class*="col-"] {
+    height: calc(1070px / 12);
+}
+
+body {
+    background-color: white;
+}
+
+/* COLOR CLASSES */
+
+.color-red {
+    background-color: red;
+}
+
+.color-org {
+    background-color: orange;
+}
+
+.color-yll {
+    background-color: yellow;
+}
+
+.color-gre {
+    background-color: green;
+}
+
+.color-blu {
+    background-color: blue;
+}
+
+.color-vi {
+    background-color: violet;
+}
